@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarShopee</string>
+    <string name="find_cars">Find cars below</string>
+    <string name="welcome">Welcome</string>
+    <string name="search_manufacturer">Search car manufacturers</string>
+    <string name="search_car_type">Search car type</string>
+    <string name="search_transition_from">SearchTransitionFrom</string>
+    <string name="search_transition_to">SearchTransitionTo</string>
+</resources>
